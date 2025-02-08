@@ -205,7 +205,7 @@ header nav ul li.btn a:hover, .email .block button:hover {
 /*секция с изображением */
 
 .features {
-    background: url('..images/background1.jpg') no-repeat center center fixed;
+    background: url('images/background1.jpg') no-repeat center center fixed;
     background-size: cover;
     padding: 80px 0;
 }
